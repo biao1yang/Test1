@@ -1,0 +1,8 @@
+    git 常用的一些命令：
+	$ git add readme.md  //添加文件 readme.md 是需要添加的文件名称  可反复多次使用，添加多个文件；
+	 
+	$ git commit -m "first commit" //提交文件  "first commit"即为备注
+	 
+	$ git status //查看状态 是否新增、修改、删除
+	 
+	$ git diff //查看修改内容
